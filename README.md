@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sean Raaf R!
+# Hi there 👋, I'm Andrew Samaga C!
 
 Welcome to my GitHub profile! I'm a web developer passionate about creating beautiful and functional websites using HTML, CSS, and JavaScript. I'm from Indonesia 🇮🇩.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a web developer passionate about creating beau
 - 🌍 I'm based in Indonesia
 - 🌐 I love building websites with HTML, CSS, and JavaScript
 - 💬 Ask me about web development
-- 📫 How to reach me: seanraafs@gmail.com
+- 📫 How to reach me: andrewsamagachandra@gmail.com
 - ⚡ Fun fact: I love learning new web technologies and exploring the vibrant tech community in Indonesia.
 
 ## Skills
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a web developer passionate about creating beau
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/andrew.smg?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/andrew.smg/)
 
 ---
 
