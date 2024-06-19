@@ -23,8 +23,6 @@ Welcome to my GitHub profile! I'm a web developer passionate about creating beau
 ## GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=4druux&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4druux&layout=compact&theme=radical)
-
 
 ## Connect with Me
 
