@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a web developer passionate about creating beau
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanraafs&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4druux&layout=compact&theme=radical)
 
 ## Connect with Me
 
