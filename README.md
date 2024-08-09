@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Andrew Samaga C!
 
 Welcome to my GitHub profile! I'm a web developer passionate about creating beautiful and functional websites using HTML, CSS, and JavaScript. I'm from Indonesia 🇮🇩.
+https://4druux-portfolio.vercel.app/
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=4druux.4druux)
 ![GitHub followers](https://img.shields.io/github/followers/4druux?label=Follow&style=social)
@@ -14,7 +15,6 @@ Welcome to my GitHub profile! I'm a web developer passionate about creating beau
 - 📫 How to reach me: andrewsamagachandra@gmail.com
 - ⚡ Fun fact: I love learning new web technologies and exploring the vibrant tech community in Indonesia.
 
-https://4druux-portfolio.vercel.app/
 ## Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
